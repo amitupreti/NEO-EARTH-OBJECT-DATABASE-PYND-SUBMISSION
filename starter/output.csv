@@ -1,0 +1,11 @@
+id,name,diameter_min_km,is_potentially_hazardous_asteroid,orbits
+3976530,(2020 AM1),0.0305179233,False,[<models.OrbitPath object at 0x7f252e17b6d8>]
+3942362,(2019 YK),0.0421264611,False,[<models.OrbitPath object at 0x7f252e17b780>]
+3893737,(2019 WE5),0.0667659413,False,[<models.OrbitPath object at 0x7f252e17b978>]
+3976578,(2020 AE2),0.0699125232,False,[<models.OrbitPath object at 0x7f252e17ba20>]
+3591759,(2011 YE40),0.0242412481,False,[<models.OrbitPath object at 0x7f252e17bac8>]
+3747497,(2016 EF195),0.0211132445,False,[<models.OrbitPath object at 0x7f252e17bc18>]
+3564720,(2011 HS60),0.1460679643,False,[<models.OrbitPath object at 0x7f252e17bcc0>]
+3976542,(2020 AY1),0.0253837029,False,[<models.OrbitPath object at 0x7f252e17be10>]
+3971141,(2019 YO6),0.096506147,False,[<models.OrbitPath object at 0x7f252e17beb8>]
+3986810,(2020 BK2),0.1199374957,False,[<models.OrbitPath object at 0x7f252e17bf60>]

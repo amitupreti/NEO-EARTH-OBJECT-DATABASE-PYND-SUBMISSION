@@ -1,0 +1,31 @@
+
+
+REQUIREMENT1
+Search requirement by creating two search instance methods(equals_search,between_search) in the NEOSeacher class; 
+
+------------------------------------------------------------------------------------------------------------------------
+
+REQUIREMENT2
+
+MODIFIED implementation of  the Filter class, 
+created a dictionary in Filter.Options, with keys of filter names and values corresponding NearEarthObject or OrbitalPath  property
+created Filter.Operators with a dictionary of key opearator symbols operators 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+
+REQUIREMENT3  
+test failed here, 
+
+-Updated the filter method
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+REQUIREMENT4
+Added a check for distance
+Added implementation of the `apply` method of the Filter class to filter the Orbital Paths
+Icluded implementation in the `get_objects` method to extract Orbital Path filters and apply to the NearEarthObjects in  NEOSearcher
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
